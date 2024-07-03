@@ -1,0 +1,48 @@
+.textjudul h1 {
+    font-size: 3rem; /* Adjust the size as needed */
+    text-align: start; /* Optional: center the text */
+    margin-top: 140px;
+    margin-left: 105px;
+  }
+  .textjudu2 h2 {
+    font-size: 2rem; /* Adjust the size as needed */
+    text-align:start ; /* Optional: center the text */
+    margin-top: -140px;
+    margin-left: 750px;
+   
+  }
+  .textjudu3 h3{
+    font-size: 1rem; /* Adjust the size as needed */
+    text-align:start ; /* Optional: center the text */
+    margin-top: 10px;
+    margin-left: 750px;
+   
+  }
+  .butoncontak{
+    margin-top: 45px;
+    margin-left: 748px;
+  }
+  .seportofolio{
+    margin-top: -24px;
+    margin-left: 883px;
+  }
+  .seportofolio a {
+    border: 1px solid black; /* Add border/stroke */
+  }
+  .imgsosmed{
+    width: 40px;
+    margin-top: -35px;
+    margin-left: 105px;
+  }
+  .imgsosmed2{
+    width: 40px;
+    margin-top: -40px;
+    margin-left: 175px;
+   
+  }
+  .imgsosmed3{
+    width: 40px;
+    margin-top: -40px;
+    margin-left: 245px;
+   
+  }
